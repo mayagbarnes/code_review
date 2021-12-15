@@ -1,1 +1,1 @@
-# code_review
+# FE Code Review Exercise Template
